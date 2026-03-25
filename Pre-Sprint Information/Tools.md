@@ -13,6 +13,9 @@
 - Development environment
 - Extensions for linting/formatting
 
+## Baylon or three.js
+- Javascript game engine
+
 ## Optional
 - Discord / Slack → communication
 - ESLint → code quality
